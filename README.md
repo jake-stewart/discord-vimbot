@@ -1,5 +1,5 @@
 # discord-vimbot
-Runs vim over discord. By using a tmux session sudoed into a restricted user.
+Runs vim over discord by using a tmux session sudoed into a restricted user.
 
 I don't recommend using this unless you know what you're doing or want your computer hacked.
 
