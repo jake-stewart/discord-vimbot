@@ -3,9 +3,9 @@ import term_backend
 import asyncio
 import os
 
-TOKEN = "NTczNzQ4OTU3MTU5NjIwNjA5.XkYOfA._fWd8bZXR-kNe8EHnixXyvB8YzI"
+TOKEN = "NTczNzQ4OTU3MTU5NjIwNjA5.XkYOfA._fWd8bZXR-kNe8EHnixXyvB8YzI"  # put your own tokon here
 client = discord.Client()
-channel_id = 827063908929634355
+channel_id = 827063908929634355   # put your vimbot channel here
 term_running = False
 filetype = 'txt'
 filetype_changed = False
